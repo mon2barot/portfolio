@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to my Data Science Portfolio on Minesh Barot</title>
+    <link>https://mon2barot.github.io/portfolio/</link>
+    <description>Recent content in Welcome to my Data Science Portfolio on Minesh Barot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mon2barot.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flight Delay Analysis</title>
+      <link>https://mon2barot.github.io/portfolio/post/project-4/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mon2barot.github.io/portfolio/post/project-4/</guid>
+      <description>The goal of the project is to predict the delay times of particular flights.
+The dataset has 3 files named airlines, airports and flights. All are in the csv format. The focus for this project has mainly been on the flights.csv file. The dataset had almost 5 million rows of data and was quite dirty and hance the first step was data wrangling. After preprocessing the data, three models were applied viz; Multiple Linear Regression, Random Forest and XGBOOST.</description>
+    </item>
+    
+    <item>
+      <title> Drinking Habit Analysis </title>
+      <link>https://mon2barot.github.io/portfolio/post/project-1/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mon2barot.github.io/portfolio/post/project-1/</guid>
+      <description>Exploratory data analysis has been conducted to gain a detailed understanding of the entire dataset. Simple and multiple linear regression models have been applied to predict the total_litres_of_pure_alcohol. Models have been evaulated numerically and visually to check the validity of the predictions.    Link to GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>Bank Customer Prediction</title>
+      <link>https://mon2barot.github.io/portfolio/post/project-2/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mon2barot.github.io/portfolio/post/project-2/</guid>
+      <description>The goal of the project is to predict whether a prospect will convert into a customer or not
+ Data wrangling has been performed to ensure that the data has no corruptions and the is ready for analysis. The Random Forest model has been applied to assist in the process of prediction. The accuracy of the model has been evaluated.    Link to GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>Store Database Querying</title>
+      <link>https://mon2barot.github.io/portfolio/post/project-3/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mon2barot.github.io/portfolio/post/project-3/</guid>
+      <description>The goal of the project is to apply SQL commands to generate required reports and understand the overall working of the store.
+There are four schemas in the database that relate to each other, viz;
+ HR Invoices Inventory Store  Following standard of commands have been applied on the schemas to produce results:
+ Data Definiton Language Data Manipulation Language Inner Joins &amp;amp; Outer Joins Pattern Matching Operators    Link to GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mon2barot.github.io/portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mon2barot.github.io/portfolio/contact/</guid>
+      <description>Connect with me on these social media platforms.
+   Platform URL     LinkedIn: www.linkedin.com/in/mineshbarot   Medium: www.medium.com/@mon2barot   GitHub: www.github.com/mon2barot   Email: mon2barot@gmail.com    </description>
+    </item>
+    
+  </channel>
+</rss>
